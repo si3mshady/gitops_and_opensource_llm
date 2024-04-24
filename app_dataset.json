@@ -1,0 +1,134 @@
+[
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Sophia Johnson, listen to their ailment as follows: #### AILMENT I have been experiencing persistent headaches and dizziness., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Neurologist #### DATE 2024-06-01T09:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Liam Brown, listen to their ailment as follows: #### AILMENT I twisted my ankle while hiking and now it's swollen and painful., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Orthopedic #### DATE 2024-06-02T11:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Olivia Martinez, listen to their ailment as follows: #### AILMENT I've been having trouble breathing and feel tightness in my chest., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pulmonologist #### DATE 2024-06-03T13:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Noah Anderson, listen to their ailment as follows: #### AILMENT I have been experiencing pain and stiffness in my back after lifting heavy objects., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Orthopedic #### DATE 2024-06-04T14:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Ava Martinez, listen to their ailment as follows: #### AILMENT I have a persistent cough and chest congestion., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pulmonologist #### DATE 2024-06-05T09:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME William Brown, listen to their ailment as follows: #### AILMENT My daughter has been complaining of ear pain and trouble hearing., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Otolaryngologist #### DATE 2024-06-06T11:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Isabella Taylor, listen to their ailment as follows: #### AILMENT I've been having stomach pain and nausea after eating certain foods., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-06-07T13:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME James Wilson, listen to their ailment as follows: #### AILMENT I have been experiencing severe joint pain and swelling., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Rheumatologist #### DATE 2024-06-08T15:20:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Charlotte Anderson, listen to their ailment as follows: #### AILMENT My son has been experiencing frequent nosebleeds., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Otolaryngologist #### DATE 2024-06-09T10:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Benjamin Johnson, listen to their ailment as follows: #### AILMENT I've been feeling fatigued and have low energy., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE General practitioner #### DATE 2024-06-10T11:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Amelia Garcia, listen to their ailment as follows: #### AILMENT I have been experiencing pain and stiffness in my neck and shoulders., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Orthopedic #### DATE 2024-06-11T14:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Ethan Martinez, listen to their ailment as follows: #### AILMENT I've been having trouble sleeping and feel restless at night., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Sleep specialist #### DATE 2024-06-12T16:10:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Mia Brown, listen to their ailment as follows: #### AILMENT I have a persistent cough and chest congestion., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pulmonologist #### DATE 2024-06-13T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Alexander Rodriguez, listen to their ailment as follows: #### AILMENT My son has been experiencing pain and swelling in his fingers and toes., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Rheumatologist #### DATE 2024-06-14T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Harper Martinez, listen to their ailment as follows: #### AILMENT My daughter has been experiencing a high fever and body aches for the past few days., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE General practitioner #### DATE 2024-06-15T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Daniel Brown, listen to their ailment as follows: #### AILMENT I have been experiencing persistent heartburn and discomfort after eating., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-06-16T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Scarlett Garcia, listen to their ailment as follows: #### AILMENT My daughter has been complaining of a persistent cough and runny nose., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pediatrician #### DATE 2024-06-17T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Luke Lopez, listen to their ailment as follows: #### AILMENT I have been experiencing pain and swelling in my wrists and ankles., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Rheumatologist #### DATE 2024-06-18T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Chloe Taylor, listen to their ailment as follows: #### AILMENT My daughter has been experiencing pain and discomfort while urinating., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Urologist #### DATE 2024-06-19T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Christian Hernandez, listen to their ailment as follows: #### AILMENT I have been experiencing shortness of breath and wheezing., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pulmonologist #### DATE 2024-06-20T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Madison Garcia, listen to their ailment as follows: #### AILMENT My daughter has been complaining of frequent stomach aches and nausea., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-06-21T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Carter Martinez, listen to their ailment as follows: #### AILMENT I have been experiencing pain and stiffness in my knee after running., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Orthopedic #### DATE 2024-06-22T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Lily Jones, listen to their ailment as follows: #### AILMENT I have been experiencing persistent fatigue and muscle weakness., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Endocrinologist #### DATE 2024-06-23T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Christopher Taylor, listen to their ailment as follows: #### AILMENT My son has been experiencing frequent nosebleeds and it's concerning., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Otolaryngologist #### DATE 2024-06-24T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Addison Brown, listen to their ailment as follows: #### AILMENT I have been experiencing persistent heartburn and indigestion., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-06-25T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Zoe Martinez, listen to their ailment as follows: #### AILMENT My daughter has been experiencing pain and swelling in her wrists and ankles., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Rheumatologist #### DATE 2024-06-26T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Henry Martinez, listen to their ailment as follows: #### AILMENT I have been experiencing persistent headaches and fatigue., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Neurologist #### DATE 2024-06-27T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Nora Anderson, listen to their ailment as follows: #### AILMENT My daughter has been complaining of a persistent cough and runny nose., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pediatrician #### DATE 2024-06-28T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Thomas Brown, listen to their ailment as follows: #### AILMENT I have been experiencing persistent back pain and stiffness., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Orthopedic #### DATE 2024-06-29T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Emily Rodriguez, listen to their ailment as follows: #### AILMENT My daughter has been complaining of frequent stomach aches and nausea., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-06-30T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Jackson Lopez, listen to their ailment as follows: #### AILMENT I have been experiencing persistent fatigue and low energy., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Endocrinologist #### DATE 2024-07-01T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Ella Gonzalez, listen to their ailment as follows: #### AILMENT My daughter has been complaining of frequent stomach aches and diarrhea., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-07-02T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Aiden Perez, listen to their ailment as follows: #### AILMENT I have been experiencing persistent joint pain and swelling., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Rheumatologist #### DATE 2024-07-03T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Mila Flores, listen to their ailment as follows: #### AILMENT My daughter has been experiencing persistent ear pain and trouble hearing., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Otolaryngologist #### DATE 2024-07-04T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Michael Martinez, listen to their ailment as follows: #### AILMENT I have been experiencing persistent headaches and dizziness., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Neurologist #### DATE 2024-07-05T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Sofia Hernandez, listen to their ailment as follows: #### AILMENT My daughter has been complaining of a persistent cough and runny nose., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Pediatrician #### DATE 2024-07-06T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Logan Garcia, listen to their ailment as follows: #### AILMENT I have been experiencing persistent heartburn and discomfort after eating., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-07-07T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Avery Jones, listen to their ailment as follows: #### AILMENT My daughter has been experiencing pain and swelling in her wrists and ankles., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Rheumatologist #### DATE 2024-07-08T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Lucas Lopez, listen to their ailment as follows: #### AILMENT I have been experiencing persistent headaches and fatigue., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Neurologist #### DATE 2024-07-09T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Aria Anderson, listen to their ailment as follows: #### AILMENT My daughter has been complaining of frequent stomach aches and nausea., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-07-10T15:45:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Oliver Brown, listen to their ailment as follows: #### AILMENT I have been experiencing persistent back pain and stiffness., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Orthopedic #### DATE 2024-07-11T09:00:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Evelyn Rodriguez, listen to their ailment as follows: #### AILMENT My daughter has been complaining of frequent stomach aches and diarrhea., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-07-12T11:30:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Gabriel Lopez, listen to their ailment as follows: #### AILMENT I have been experiencing persistent fatigue and low energy., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Endocrinologist #### DATE 2024-07-13T13:15:00"
+  },
+  {
+    "prompt": "You are a scheduler for the doctor. You will take the patient's first and last name as follows: #### NAME Victoria Gonzalez, listen to their ailment as follows: #### AILMENT My daughter has been complaining of frequent stomach aches and diarrhea., and then set a time and date with a doctor that can address that need as follows by crafting a one sentence response indicating doctor and time: ##### DOCTOR TYPE Gastroenterologist #### DATE 2024-07-14T15:45:00"
+  }
+]
