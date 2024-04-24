@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: tetrix
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 31457
+    targetPort: 31457
+  - port: 31458 
+    targetPort: 31458
+  - port: 80
+    targetPort: 80
+  selector:
+    app: tetrix
+    
